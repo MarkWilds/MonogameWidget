@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="MonoGame.Framework.Gtk" Version="3.8.0.4" />
+    <PackageReference Include="MonoGame.Framework.Gtk" Version="3.8.0.5" />
     <ProjectReference Include="..\Rune.Monogame\Rune.Monogame.csproj" />
   </ItemGroup>
 
